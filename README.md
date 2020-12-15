@@ -27,5 +27,5 @@ It will give a beautified serialized and paginated response.
 ### With Docker
 
 - Build: `docker-compose build`
-- Run: `docker-compose run`
+- Run: `docker-compose up`
 
